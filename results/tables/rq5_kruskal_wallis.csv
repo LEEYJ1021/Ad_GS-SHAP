@@ -1,0 +1,7 @@
+method,H,p,sig
+GS-SHAP,240.76,0.0,***
+TimeSHAP,652.792,0.0,***
+WinSHAP,666.104,0.0,***
+LIME-TS,639.22,0.0,***
+GS(NoSeg),329.863,0.0,***
+GS(NoGroup),291.238,0.0,***
