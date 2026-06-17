@@ -79,7 +79,7 @@ product_category_1_enc █                               0.0030
 ## Repository Structure
 
 ```
-gs-shap-sparse-ad/
+Ad_GS-SHAP/
 ├── README.md
 ├── requirements.txt
 │
