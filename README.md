@@ -99,7 +99,6 @@ Ad_GS-SHAP/
 │   │   ├── fig_domain_attribution.png       # Feature importance bar + cross-model rank corr
 │   │   ├── fig_paper_main.png               # 6-panel consolidated manuscript figure
 │   │   ├── fig_sec13_axiom_sensitivity.png  # Shapley axiom pass rate + MMD sensitivity
-│   │   ├── fig_WB_mapping_validation.png    # Figure W-B: Dataset B proxy validation
 │   │   ├── fig_w1_rq1_v2.png               # W1: dual-primary + Cliff's δ forest plot
 │   │   ├── fig_w2_axiom_v2.png             # W2: MLPMixer anomaly diagnosis (4-panel)
 │   │   ├── fig_w3_rq2_v2.png               # W3: distribution shift reframing
