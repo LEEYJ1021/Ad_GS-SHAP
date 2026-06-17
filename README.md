@@ -1,7 +1,4 @@
 # GS-SHAP: Robust Shapley Explanations for Sparse Sequential Advertising Data
-
-> *"GS-SHAP: Robust and Adaptive Shapley Explanations via Group-Segment Players for Sparse Sequential Advertising Data"*
-
 ---
 
 ## The Problem: When Users Click Only Once
